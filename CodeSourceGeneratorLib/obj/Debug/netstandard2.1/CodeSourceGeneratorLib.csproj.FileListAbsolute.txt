@@ -1,0 +1,10 @@
+C:\Users\VictorNgounou\source\repos\RiderProject\CodeSourceGenerator\CodeSourceGeneratorLib\obj\Debug\netstandard2.1\CodeSourceGeneratorLib.csproj.AssemblyReference.cache
+C:\Users\VictorNgounou\source\repos\RiderProject\CodeSourceGenerator\CodeSourceGeneratorLib\obj\Debug\netstandard2.1\CodeSourceGeneratorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictorNgounou\source\repos\RiderProject\CodeSourceGenerator\CodeSourceGeneratorLib\obj\Debug\netstandard2.1\CodeSourceGeneratorLib.AssemblyInfoInputs.cache
+C:\Users\VictorNgounou\source\repos\RiderProject\CodeSourceGenerator\CodeSourceGeneratorLib\obj\Debug\netstandard2.1\CodeSourceGeneratorLib.AssemblyInfo.cs
+C:\Users\VictorNgounou\source\repos\RiderProject\CodeSourceGenerator\CodeSourceGeneratorLib\obj\Debug\netstandard2.1\CodeSourceGeneratorLib.csproj.CoreCompileInputs.cache
+C:\Users\VictorNgounou\source\repos\RiderProject\CodeSourceGenerator\CodeSourceGeneratorLib\bin\Debug\netstandard2.1\CodeSourceGeneratorLib.deps.json
+C:\Users\VictorNgounou\source\repos\RiderProject\CodeSourceGenerator\CodeSourceGeneratorLib\bin\Debug\netstandard2.1\CodeSourceGeneratorLib.dll
+C:\Users\VictorNgounou\source\repos\RiderProject\CodeSourceGenerator\CodeSourceGeneratorLib\bin\Debug\netstandard2.1\CodeSourceGeneratorLib.pdb
+C:\Users\VictorNgounou\source\repos\RiderProject\CodeSourceGenerator\CodeSourceGeneratorLib\obj\Debug\netstandard2.1\CodeSourceGeneratorLib.dll
+C:\Users\VictorNgounou\source\repos\RiderProject\CodeSourceGenerator\CodeSourceGeneratorLib\obj\Debug\netstandard2.1\CodeSourceGeneratorLib.pdb
